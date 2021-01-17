@@ -351,7 +351,6 @@
     </div>
   </footer>
 
-
     <!-- SCRIPTS DO PROJETO -->
     <script src="bootstrap/js/scripts.js"></script>
 </body>
